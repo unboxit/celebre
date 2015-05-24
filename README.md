@@ -25,6 +25,9 @@ Run the linters with ```npm run lint```
 
 Run All Tests with ```npm test```
 
+Preview deployed app
+https://api-te.famo.us/codemanager/v1/containers/d0b219c7-6b30-475d-a02e-30ebd484d9ea/share
+
 ---
 
 ###Need help?
